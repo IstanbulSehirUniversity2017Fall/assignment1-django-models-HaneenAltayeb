@@ -20,8 +20,8 @@ git push origin master
 git pull --rebase origin master
 git push origin master
 Django terminal commands:
-$django-admin startapp Assignment
-$python manage.py createsuperuser
-$python manage.py migrate
-$python manage.py runserver
+django-admin startapp Assignment
+python manage.py createsuperuser
+python manage.py migrate
+python manage.py runserver
 
